@@ -10,8 +10,7 @@ Contoh Pengerjaan Data Pada Excel
 -Laba/Rugi
   -Keuntungan
   -kerugian
-![Preview](<img width="499" height="106" alt="image" src="https://github.com/user-attachments/assets/af91ef59-fbaa-49d0-bb9f-43f571262bd4" />
-)
+![Preview]((https://github.com/MuhamadRamdani121/Contoh_Project_A1/blob/5f74b463ce91ba35576d52eae2e0a7c9d535b2a7/src/data%20excel.png))
 -MemBuat Jurnal Sederhana
 ![Dashboard](link-gambar)
 -Membuat Pivot
