@@ -11,7 +11,7 @@ Contoh Pengerjaan Data Pada Excel
   -Keuntungan
   -kerugian
   
-![Preview]([src/Pivot Chart.png](https://github.com/MuhamadRamdani121/Contoh_Project_A1/blob/39148e07353fa489defedbf266dade0d0a636502/src/data%20excel.png))
+![Preview](https://raw.githubusercontent.com/MuhamadRamdani121/Contoh_Project_A1/main/src/data%20excel.png)
 -MemBuat Jurnal Sederhana
 ![Dashboard](link-gambar)
 -Membuat Pivot
